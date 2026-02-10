@@ -88,4 +88,5 @@ if __name__ == "__main__":
     plt.title("Convergence of Loss over Iterations")
     plt.xlabel("Iteration")
     plt.ylabel("Loss (MSE + L2)")
+
     plt.show()
